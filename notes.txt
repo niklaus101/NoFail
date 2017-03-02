@@ -1,2 +1,0 @@
-запуск веб-сервера python на порту 8080: 
-python -m http.server 8080
